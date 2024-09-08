@@ -1,0 +1,73 @@
+.new-h1{
+    font-size: 30px;
+    text-align: center;
+    color: rgb(49, 49, 167);
+}
+
+.col{
+    margin-top: -35px;
+}
+h2{
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+
+form b {
+    display: block;
+    margin-bottom: 8px;
+    color: #555;
+    font-size: 18px;
+}
+
+.main-exp{
+    display: flex;
+    gap: 20px;
+}
+
+.exp{
+    display: block;
+    width: 100%;
+}
+
+form input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 14px;
+    transition: border-color 0.3s;
+}
+
+form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 14px;
+    transition: border-color 0.3s;
+}
+
+.main-paper{
+    display: flex ;
+    gap: 20px;
+}
+
+.paper{
+    display: block;
+    width: 100%;
+}
+
+.main-contact{
+    display: flex ;
+    gap: 20px;
+}
+.contact{
+    display: block;
+    width: 100%;
+}
+
+.passwrd{
+    width: 49%;
+}

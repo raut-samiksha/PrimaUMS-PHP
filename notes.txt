@@ -1,0 +1,29 @@
+login - done
+reg - done
+profile - done
+edit - done
+delete - done 
+update - done
+logout- done
+forgot pass - 
+add papers-
+add portfolio -
+edit papers-
+edit portfolio 
+delete papers -
+delete portfolio 
+===============================
+login - done
+reg - done
+profile - done
+edit - done
+delete - done 
+update - done
+logout- done
+forgot pass - 
+add course 
+add fees
+add certfication
+add profile photo
+add resume
+change pass

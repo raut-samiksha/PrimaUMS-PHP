@@ -1,0 +1,37 @@
+home
+
+login - session
+
+register
+
+file upload
+
+paper published - session
+
+portfolio - session
+
+profile - session
+
+edit profile - session
+
+delete profile - session
+
+paper published - table , paper link
+
+edit paper published - session
+
+delete paper published - session
+
+portfolio - table, date
+
+edit portfolio - session
+
+delete portfolio - session
+
+change password - session, ajax for old password match and change to new password
+                md5 password
+                
+session
+
+logout - seesion-destroy
+
